@@ -1,7 +1,7 @@
 <?php
 $servername = "yanshuptl.mysql.database.azure.com";
 $username = "username@yanshuptl";
-$password = "";
+$password = "Y@N$hu00";
 $dbname = "votesystem";
 $port = 3306;
 
