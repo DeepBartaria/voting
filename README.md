@@ -1,1 +1,0 @@
-# GymKhana_VotingPlatform

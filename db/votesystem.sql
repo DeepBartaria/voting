@@ -52,6 +52,10 @@ INSERT INTO `admin` (`id`, `username`, `password`, `firstname`, `lastname`, `pho
 (1, 'deep', 'deep.iiit', 'deep', 'B', 'boy-admin.jpg', '2024-02-28'),
 (2, 'iiit', 'dbms.iiit', 'iiit', 'V', 'girl-admin.jpg', '2024-03-01');
 
+INSERT INTO `admin` (`id`, `username`, `password`, `firstname`, `lastname`, `photo`, `created_on`) VALUES
+(3, 'daivik', 'daiviksir', 'Daivik', 'Hirpara', 'daivik.jpeg', '2025-03-17'),
+(4, 'pragya', 'pragyamaam', 'Pragya', 'Pranati', 'pragya.jpeg', '2025-03-17');
+
 -- --------------------------------------------------------
 
 --
